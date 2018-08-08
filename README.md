@@ -1,2 +1,6 @@
 # flowers
-of the earth
+a *sample* repository
+wherein **I** attempt to learn
+## both 
+markdown & 
+***git***
