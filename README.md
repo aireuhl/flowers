@@ -1,6 +1,5 @@
-# flowers
-a *sample* repository
-wherein **I** attempt to learn
-## both 
-markdown & 
-***git***
+# ariel hahn
+
+this is a repository for my personal website.
+
+*questions* just email me! arielhahn @ ucla DOT edu
